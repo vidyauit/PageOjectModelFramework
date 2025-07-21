@@ -1,0 +1,13 @@
+{
+  "envirnoment":{
+	"DEV":{
+			"url":"https://www.automationexercise.com/"
+	 },
+	 "QA":{
+			"url":"https://www.automationexercise.com/"
+	 },
+	 "UAT":{
+			"url":"https://www.automationexercise.com/"
+	}
+ }
+}
